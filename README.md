@@ -1,2 +1,3 @@
-// This is a weather website for Phoenix, Arizona.
-// It's my first webpage. 
+This is a weather website for Phoenix, Arizona.
+
+It's my first webpage. 
