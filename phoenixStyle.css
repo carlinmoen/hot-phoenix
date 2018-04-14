@@ -1,9 +1,16 @@
 body {
   background-color: orange;
 }
-h1{
+h1 {
   color: red;
 }
-p{
+p {
   color: blue;
+}
+#image {
+  border: something;
+  margin: something;
+}
+#header1 {
+  something: something;
 }
