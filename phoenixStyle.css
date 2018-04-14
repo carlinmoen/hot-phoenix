@@ -1,16 +1,14 @@
 body {
-  background-color: orange;
+  font-family: sans-serif;
+  background-color: grey
 }
 h1 {
-  color: red;
+
 }
 p {
-  color: blue;
+  color: orange;
 }
 #image {
   border: something;
   margin: something;
-}
-#header1 {
-  something: something;
 }
