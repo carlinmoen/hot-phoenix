@@ -47,11 +47,16 @@ Click to see weather forecast for Phoenix, AZ</a>
 <!-- "action" would go to a server on back end to collect form
 form action="/getLocations.js"> -->
 
-  Where do you live?:<br>
-  <input type="text" name="location"><br>
-  <input type="submit" value="Submit">
+<form action="/form-handling-page" method ="post">
+  <div>
+    <label for="city">Where do you live?:</label>
+    <br>
+    <input type="text">
+  </div>
+  <div class="button">
+    <button type="submit">Submit</button>
+  </div>
 
-</form>
  <br>
  <br>
 
